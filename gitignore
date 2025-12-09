@@ -1,0 +1,24 @@
+# Секретні файли - НЕ ДОДАВАТИ В GIT!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Тимчасові файли
+*.log
+*.tmp
+~*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
